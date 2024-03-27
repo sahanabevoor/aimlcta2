@@ -1,8 +1,11 @@
 {
-    "name": "portfolio",
-    "version": "1.0.0",
-    "scripts": {
-      "build": "echo 'No build steps required'"
-    }
-  }
-  
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website of Sahana M Bevoor",
+  "scripts": {
+    "start": "echo 'No start script needed for HTML-only project'",
+    "build": "echo 'No build script needed for HTML-only project'"
+  },
+  "author": "Sahana M Bevoor",
+  "license": "MIT"
+}
